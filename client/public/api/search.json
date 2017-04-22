@@ -1,0 +1,846 @@
+{
+  "businesses": [
+    {
+      "id": "frank-bar-são-paulo",
+      "name": "Frank Bar",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SabmH-BKyk-3aGOrme5Lew/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/frank-bar-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "review_count": 34,
+      "categories": [
+        {
+          "alias": "hotel_bar",
+          "title": "Hotel bar"
+        },
+        {
+          "alias": "cocktailbars",
+          "title": "Cocktail Bars"
+        }
+      ],
+      "total_going": 100,
+      "going": true,
+      "rating": 5,
+      "coordinates": {
+        "latitude": -23.5635261,
+        "longitude": -46.651115
+      },
+      "transactions": [],
+      "price": "$$$",
+      "location": {
+        "address1": "Maksoud Plaza Hotel",
+        "address2": "Alameda Campinas, 150",
+        "address3": "",
+        "city": "São Paulo",
+        "zip_code": "01404-900",
+        "country": "BR",
+        "state": "SP",
+        "display_address": [
+          "Maksoud Plaza Hotel",
+          "Alameda Campinas, 150",
+          "São Paulo - SP 01404-900",
+          "Brazil"
+        ]
+      },
+      "phone": "+551131458000",
+      "display_phone": "+55 11 3145-8000",
+      "distance": 1061.178357382
+    },
+    {
+      "id": "parque-do-ibirapuera-são-paulo-2",
+      "name": "Ibirapuera Park",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ws704I4mS7M-G_o8jBUX4Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/parque-do-ibirapuera-s%C3%A3o-paulo-2?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "review_count": 123,
+      "total_going": 50,
+      "going": true,
+      "categories": [
+        {
+          "alias": "landmarks",
+          "title": "Landmarks & Historical Buildings"
+        },
+        {
+          "alias": "parks",
+          "title": "Parks"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -23.58333,
+        "longitude": -46.6567099
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Av. Pedro Álvares Cabral",
+        "address2": "",
+        "address3": "",
+        "city": "São Paulo",
+        "zip_code": "04094-050",
+        "country": "BR",
+        "state": "SP",
+        "display_address": [
+          "Av. Pedro Álvares Cabral",
+          "São Paulo - SP 04094-050",
+          "Brazil"
+        ]
+      },
+      "phone": "+551155745505",
+      "display_phone": "+55 11 5574-5505",
+      "distance": 2198.73583023
+    },
+    {
+      "id": "bacio-di-latte-são-paulo-3",
+      "name": "Bacio di Latte",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6fv3iu8_F8bF1j_vAffi6A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/bacio-di-latte-s%C3%A3o-paulo-3?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "review_count": 34,
+      "total_going": 87,
+      "going": false,
+      "categories": [
+        {
+          "alias": "icecream",
+          "title": "Ice Cream & Frozen Yogurt"
+        },
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -23.5677931,
+        "longitude": -46.6635882
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "R. Oscar Freire, 136",
+        "address2": "",
+        "address3": "",
+        "city": "São Paulo",
+        "zip_code": "01426-000",
+        "country": "BR",
+        "state": "SP",
+        "display_address": [
+          "R. Oscar Freire, 136",
+          "São Paulo - SP 01426-000",
+          "Brazil"
+        ]
+      },
+      "phone": "+551136622573",
+      "display_phone": "+55 11 3662-2573",
+      "distance": 334.4353843402
+    },
+    {
+      "id": "avenida-paulista-são-paulo",
+      "name": "Paulista Avenue",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/szYunfmnx96-c-PN3NSJ6w/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/avenida-paulista-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "review_count": 70,
+      "total_going": 0,
+      "going": false,
+      "categories": [
+        {
+          "alias": "landmarks",
+          "title": "Landmarks & Historical Buildings"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -23.5630733,
+        "longitude": -46.6543584
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Avenida Paulista",
+        "address2": null,
+        "address3": null,
+        "city": "São Paulo",
+        "zip_code": "",
+        "country": "BR",
+        "state": "SP",
+        "display_address": [
+          "Avenida Paulista",
+          "São Paulo - SP",
+          "Brazil"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 797.4302713562
+    },
+    {
+      "id": "coffee-lab-são-paulo",
+      "name": "Coffee Lab",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Fa-XgX8Xp2flN7NCyOH9Bw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/coffee-lab-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "review_count": 71,
+      "total_going": 5,
+      "going": false,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "bartendingschools",
+          "title": "Bartending Schools"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -23.5562,
+        "longitude": -46.69132
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "R. Fradique Coutinho, 1340",
+        "address2": "",
+        "address3": "",
+        "city": "São Paulo",
+        "zip_code": "05416-001",
+        "country": "BR",
+        "state": "SP",
+        "display_address": [
+          "R. Fradique Coutinho, 1340",
+          "São Paulo - SP 05416-001",
+          "Brazil"
+        ]
+      },
+      "phone": "+551133757400",
+      "display_phone": "+55 11 3375-7400",
+      "distance": 3425.82137008
+    },
+    {
+      "id": "d-o-m-são-paulo-2",
+      "name": "D.O.M.",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IhLP_7zIH7nQLCjXhm5J5A/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/d-o-m-s%C3%A3o-paulo-2?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "review_count": 45,
+      "total_going": 5,
+      "going": true,
+      "categories": [
+        {
+          "alias": "brazilian",
+          "title": "Brazilian"
+        },
+        {
+          "alias": "latin",
+          "title": "Latin American"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -23.5662898,
+        "longitude": -46.6674016
+      },
+      "transactions": [],
+      "price": "$$$$",
+      "location": {
+        "address1": "R. Barão de Capanema, 549",
+        "address2": "",
+        "address3": "",
+        "city": "São Paulo",
+        "zip_code": "01411-011",
+        "country": "BR",
+        "state": "SP",
+        "display_address": [
+          "R. Barão de Capanema, 549",
+          "São Paulo - SP 01411-011",
+          "Brazil"
+        ]
+      },
+      "phone": "+551130880761",
+      "display_phone": "+55 11 3088-0761",
+      "distance": 740.2957562639999
+    },
+    {
+      "id": "underdog-são-paulo",
+      "name": "Underdog",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aN4uY4H17q1x-kqyroDCaQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/underdog-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "review_count": 17,
+      "total_going": 11,
+      "going": true,
+      "categories": [
+        {
+          "alias": "burgers",
+          "title": "Burgers"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -23.5587176411139,
+        "longitude": -46.6788731970722
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "R. João Moura, 541",
+        "address2": "",
+        "address3": "",
+        "city": "São Paulo",
+        "zip_code": "05412-001",
+        "country": "BR",
+        "state": "SP",
+        "display_address": [
+          "R. João Moura, 541",
+          "São Paulo - SP 05412-001",
+          "Brazil"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 2141.287381184
+    },
+    {
+      "id": "z-deli-sanduíches-são-paulo",
+      "name": "Z Deli Sanduíches",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CIbyFQEpchZXq7K6eXQbng/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/z-deli-sandu%C3%ADches-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "review_count": 44,
+      "total_going": 2,
+      "going": false,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "burgers",
+          "title": "Burgers"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -23.56305,
+        "longitude": -46.66717
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "R. Haddock Lobo 1386",
+        "address2": "",
+        "address3": "",
+        "city": "São Paulo",
+        "zip_code": "01414-002",
+        "country": "BR",
+        "state": "SP",
+        "display_address": [
+          "R. Haddock Lobo 1386",
+          "São Paulo - SP 01414-002",
+          "Brazil"
+        ]
+      },
+      "phone": "+551130830021",
+      "display_phone": "+55 11 3083-0021",
+      "distance": 862.9481281896
+    },
+    {
+      "id": "veridiana-são-paulo-2",
+      "name": "Veridiana",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/B3mB4autM-wKQIMosZKIrA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/veridiana-s%C3%A3o-paulo-2?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "review_count": 32,
+      "categories": [
+        {
+          "alias": "pizza",
+          "title": "Pizza"
+        },
+        {
+          "alias": "italian",
+          "title": "Italian"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -23.5452437,
+        "longitude": -46.6520569
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "R. Dona Veridiana, 661",
+        "address2": null,
+        "address3": null,
+        "city": "São Paulo",
+        "zip_code": "01238-010",
+        "country": "BR",
+        "state": "SP",
+        "display_address": [
+          "R. Dona Veridiana, 661",
+          "São Paulo - SP 01238-010",
+          "Brazil"
+        ]
+      },
+      "phone": "+551131205050",
+      "display_phone": "+55 11 3120-5050",
+      "distance": 2637.957224898
+    },
+    {
+      "id": "halim-são-paulo",
+      "name": "Halim",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WotabSDXUPvFsUafVtRiFA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/halim-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "review_count": 27,
+      "categories": [
+        {
+          "alias": "arabian",
+          "title": "Arabian"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -23.5719589,
+        "longitude": -46.644976
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "R. Doutor Rafael de Barros, 56",
+        "address2": null,
+        "address3": null,
+        "city": "São Paulo",
+        "zip_code": "04003-040",
+        "country": "BR",
+        "state": "SP",
+        "display_address": [
+          "R. Doutor Rafael de Barros, 56",
+          "São Paulo - SP 04003-040",
+          "Brazil"
+        ]
+      },
+      "phone": "+551138848502",
+      "display_phone": "+55 11 3884-8502",
+      "distance": 1631.7481282919998
+    },
+    {
+      "id": "mirante-9-de-julho-são-paulo",
+      "name": "Mirante 9 de Julho",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3HHBSA38OZnpwdkVJLaPFQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mirante-9-de-julho-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "review_count": 40,
+      "categories": [
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        },
+        {
+          "alias": "galleries",
+          "title": "Art Galleries"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -23.5608698958569,
+        "longitude": -46.6553553522537
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "R. Carlos Comenale",
+        "address2": "",
+        "address3": "",
+        "city": "São Paulo",
+        "zip_code": "01310-200",
+        "country": "BR",
+        "state": "SP",
+        "display_address": [
+          "R. Carlos Comenale",
+          "São Paulo - SP 01310-200",
+          "Brazil"
+        ]
+      },
+      "phone": "+551131116342",
+      "display_phone": "+55 11 3111-6342",
+      "distance": 914.9119626089999
+    },
+    {
+      "id": "liberdade-são-paulo-2",
+      "name": "Liberdade",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1mzxLijW6K6H5vAwWSX5Lg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/liberdade-s%C3%A3o-paulo-2?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "review_count": 34,
+      "categories": [
+        {
+          "alias": "localflavor",
+          "title": "Local Flavor"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -23.5567385,
+        "longitude": -46.6365078
+      },
+      "transactions": [],
+      "location": {
+        "address1": "Av. da Liberdade, 452",
+        "address2": "",
+        "address3": "",
+        "city": "São Paulo",
+        "zip_code": "01502-001",
+        "country": "BR",
+        "state": "SP",
+        "display_address": [
+          "Av. da Liberdade, 452",
+          "São Paulo - SP 01502-001",
+          "Brazil"
+        ]
+      },
+      "phone": "+551132079806",
+      "display_phone": "+55 11 3207-9806",
+      "distance": 2716.423332476
+    },
+    {
+      "id": "king-of-the-fork-são-paulo",
+      "name": "King of the Fork",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xgUNYhlehgUndB40g2yaOw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/king-of-the-fork-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "review_count": 48,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -23.5640215,
+        "longitude": -46.6837904
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "R. Artur de Azevedo, 1317",
+        "address2": "",
+        "address3": "",
+        "city": "São Paulo",
+        "zip_code": "05404-013",
+        "country": "BR",
+        "state": "SP",
+        "display_address": [
+          "R. Artur de Azevedo, 1317",
+          "São Paulo - SP 05404-013",
+          "Brazil"
+        ]
+      },
+      "phone": "+551125339391",
+      "display_phone": "+55 11 2533-9391",
+      "distance": 2428.697158708
+    },
+    {
+      "id": "figueira-rubaiyat-são-paulo-2",
+      "name": "Figueira Rubaiyat",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/S2FMr3GfPVxe60JrIBELVw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/figueira-rubaiyat-s%C3%A3o-paulo-2?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "review_count": 87,
+      "categories": [
+        {
+          "alias": "latin",
+          "title": "Latin American"
+        },
+        {
+          "alias": "argentine",
+          "title": "Argentine"
+        },
+        {
+          "alias": "steak",
+          "title": "Steakhouses"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -23.5653914,
+        "longitude": -46.6695667
+      },
+      "transactions": [],
+      "price": "$$$$",
+      "location": {
+        "address1": "R. Haddock Lobo, 1738",
+        "address2": null,
+        "address3": null,
+        "city": "São Paulo",
+        "zip_code": "01414-002",
+        "country": "BR",
+        "state": "SP",
+        "display_address": [
+          "R. Haddock Lobo, 1738",
+          "São Paulo - SP 01414-002",
+          "Brazil"
+        ]
+      },
+      "phone": "+551130871399",
+      "display_phone": "+55 11 3087-1399",
+      "distance": 978.7794090855999
+    },
+    {
+      "id": "izakaya-issa-são-paulo",
+      "name": "Izakaya Issa",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DGSiJcf1_JzA19TRNKt8yw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/izakaya-issa-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "review_count": 22,
+      "categories": [
+        {
+          "alias": "bars",
+          "title": "Bars"
+        },
+        {
+          "alias": "japanese",
+          "title": "Japanese"
+        }
+      ],
+      "rating": 5,
+      "coordinates": {
+        "latitude": -23.55833,
+        "longitude": -46.6361
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "R. Barão de Iguape, 89",
+        "address2": "",
+        "address3": "",
+        "city": "São Paulo",
+        "zip_code": "01507-000",
+        "country": "BR",
+        "state": "SP",
+        "display_address": [
+          "R. Barão de Iguape, 89",
+          "São Paulo - SP 01507-000",
+          "Brazil"
+        ]
+      },
+      "phone": "+551132088819",
+      "display_phone": "+55 11 3208-8819",
+      "distance": 2683.2419603559997
+    },
+    {
+      "id": "por-um-punhado-de-dólares-são-paulo",
+      "name": "Por Um Punhado de Dólares",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/W6gN-zmBdHYjWqPhJkXjFg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/por-um-punhado-de-d%C3%B3lares-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "review_count": 32,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "cafes",
+          "title": "Cafes"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -23.5483998169234,
+        "longitude": -46.6454208332055
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "R. Nestor Pestana, 115",
+        "address2": "",
+        "address3": "",
+        "city": "São Paulo",
+        "zip_code": "",
+        "country": "BR",
+        "state": "SP",
+        "display_address": [
+          "R. Nestor Pestana, 115",
+          "São Paulo - SP",
+          "Brazil"
+        ]
+      },
+      "phone": "",
+      "display_phone": "",
+      "distance": 2631.234207048
+    },
+    {
+      "id": "z-deli-sandwich-shop-são-paulo",
+      "name": "Z Deli Sandwich Shop",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bCmz8BpA6hK3T1-GtzKFXQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/z-deli-sandwich-shop-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "review_count": 44,
+      "categories": [
+        {
+          "alias": "burgers",
+          "title": "Burgers"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -23.5640588,
+        "longitude": -46.6792296
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "R. Francisco Leitão, 26",
+        "address2": "",
+        "address3": "",
+        "city": "São Paulo",
+        "zip_code": "05414-020",
+        "country": "BR",
+        "state": "SP",
+        "display_address": [
+          "R. Francisco Leitão, 26",
+          "São Paulo - SP 05414-020",
+          "Brazil"
+        ]
+      },
+      "phone": "+551123052200",
+      "display_phone": "+55 11 2305-2200",
+      "distance": 1971.184971204
+    },
+    {
+      "id": "butchers-market-são-paulo",
+      "name": "Butcher's Market",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/R85cSDlwgdyaqpLLH4n7Hw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/butchers-market-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "review_count": 48,
+      "categories": [
+        {
+          "alias": "diners",
+          "title": "Diners"
+        },
+        {
+          "alias": "burgers",
+          "title": "Burgers"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -23.58099,
+        "longitude": -46.67692
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "R. Bandeira Paulista, 164",
+        "address2": "",
+        "address3": "",
+        "city": "São Paulo",
+        "zip_code": "04532-000",
+        "country": "BR",
+        "state": "SP",
+        "display_address": [
+          "R. Bandeira Paulista, 164",
+          "São Paulo - SP 04532-000",
+          "Brazil"
+        ]
+      },
+      "phone": "+551123671043",
+      "display_phone": "+55 11 2367-1043",
+      "distance": 2244.330202704
+    },
+    {
+      "id": "santo-grão-são-paulo-13",
+      "name": "Santo Grão",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/V9Zkq3TgfxYSmqRQpoDl6g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/santo-gr%C3%A3o-s%C3%A3o-paulo-13?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "review_count": 44,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": -23.5663451170462,
+        "longitude": -46.6653217956393
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "R. Oscar Freire, 413",
+        "address2": "",
+        "address3": "",
+        "city": "São Paulo",
+        "zip_code": "01426-001",
+        "country": "BR",
+        "state": "SP",
+        "display_address": [
+          "R. Oscar Freire, 413",
+          "São Paulo - SP 01426-001",
+          "Brazil"
+        ]
+      },
+      "phone": "+551130629294",
+      "display_phone": "+55 11 3062-9294",
+      "distance": 533.576435599
+    },
+    {
+      "id": "jiquitaia-restaurante-e-bar-são-paulo",
+      "name": "Jiquitaia Restaurante & bar",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SB00QiHGkf6IYBVCOfmPUw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/jiquitaia-restaurante-e-bar-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "review_count": 20,
+      "categories": [
+        {
+          "alias": "brazilian",
+          "title": "Brazilian"
+        }
+      ],
+      "rating": 5,
+      "coordinates": {
+        "latitude": -23.556871,
+        "longitude": -46.6574823
+      },
+      "transactions": [],
+      "price": "$$$",
+      "location": {
+        "address1": "R. Antônio Carlos, 268",
+        "address2": "",
+        "address3": "",
+        "city": "São Paulo",
+        "zip_code": "01309-010",
+        "country": "BR",
+        "state": "SP",
+        "display_address": [
+          "R. Antônio Carlos, 268",
+          "São Paulo - SP 01309-010",
+          "Brazil"
+        ]
+      },
+      "phone": "+551132622366",
+      "display_phone": "+55 11 3262-2366",
+      "distance": 1241.3104478298
+    }
+  ]
+}
