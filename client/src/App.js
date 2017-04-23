@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Card from './components/Card.js';
 import Jumbotron from './components/Jumbotron.js';
 import * as api from './api/index.js';
+import storage from './utility/storage.js';
 
 class App extends Component {
   constructor() {
@@ -12,14 +13,20 @@ class App extends Component {
     }
   }
   componentDidMount() {
-    this.setState(window.__NIGHTLIFE_STATE__);
+    let location = storage.get("lastLocation");
+    this.setState({inputLocation: location});
+    this.search(location);
   }
-  onSearch() {
-    if (this.state.inputLocation && this.state.inputLocation.length >= 3) {
-      api.search(this.state.inputLocation).then(data => {
+  search(location) {
+    if (location && location.length >= 2) {
+      storage.set("lastLocation", location);
+      api.search(location).then(data => {
         this.setState(data);
       });
     }
+  }
+  onSearch() {
+    this.search(this.state.inputLocation);
   }
   onChangeLocation(e) {
     this.setState({inputLocation: e.target.value});
@@ -48,7 +55,7 @@ class App extends Component {
       api.going(id, going).then(response => {
         this.onSavedGoing(id, going, response.total_going);
       }).catch(err => {
-        if (err && err.response && err.response.status == 401) {
+        if (err && err.response && err.response.status === 401) {
           window.location.href = "/auth/twitter";
         } else {
           this.onSavedGoing(id, !going, totalGoing);
