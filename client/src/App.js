@@ -44,8 +44,16 @@ class App extends Component {
         return item;
       }
       let going = !item.going;
+      let totalGoing = item.total_going;
       api.going(id, going).then(response => {
         this.onSavedGoing(id, going, response.total_going);
+      }).catch(err => {
+        if (err && err.response && err.response.status == 401) {
+          window.location.href = "/auth/twitter";
+        } else {
+          this.onSavedGoing(id, !going, totalGoing);
+          window.alert("Error saving, please try again");
+        }
       });
       
       return {

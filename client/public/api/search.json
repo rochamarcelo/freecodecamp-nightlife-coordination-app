@@ -5,7 +5,7 @@
       "name": "Frank Bar",
       "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SabmH-BKyk-3aGOrme5Lew/o.jpg",
       "is_closed": false,
-      "url": "https://www.yelp.com/biz/frank-bar-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "url": "https://www.yelp.com/biz/frank-bar-s%C3%A3o-paulo",
       "review_count": 34,
       "categories": [
         {
@@ -50,7 +50,7 @@
       "name": "Ibirapuera Park",
       "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ws704I4mS7M-G_o8jBUX4Q/o.jpg",
       "is_closed": false,
-      "url": "https://www.yelp.com/biz/parque-do-ibirapuera-s%C3%A3o-paulo-2?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "url": "https://www.yelp.com/biz/parque-do-ibirapuera-s%C3%A3o-paulo-2",
       "review_count": 123,
       "total_going": 50,
       "going": true,
@@ -93,7 +93,7 @@
       "name": "Bacio di Latte",
       "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6fv3iu8_F8bF1j_vAffi6A/o.jpg",
       "is_closed": false,
-      "url": "https://www.yelp.com/biz/bacio-di-latte-s%C3%A3o-paulo-3?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "url": "https://www.yelp.com/biz/bacio-di-latte-s%C3%A3o-paulo-3",
       "review_count": 34,
       "total_going": 87,
       "going": false,
@@ -137,7 +137,7 @@
       "name": "Paulista Avenue",
       "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/szYunfmnx96-c-PN3NSJ6w/o.jpg",
       "is_closed": false,
-      "url": "https://www.yelp.com/biz/avenida-paulista-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "url": "https://www.yelp.com/biz/avenida-paulista-s%C3%A3o-paulo",
       "review_count": 70,
       "total_going": 0,
       "going": false,
@@ -176,7 +176,7 @@
       "name": "Coffee Lab",
       "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Fa-XgX8Xp2flN7NCyOH9Bw/o.jpg",
       "is_closed": false,
-      "url": "https://www.yelp.com/biz/coffee-lab-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "url": "https://www.yelp.com/biz/coffee-lab-s%C3%A3o-paulo",
       "review_count": 71,
       "total_going": 5,
       "going": false,
@@ -220,7 +220,7 @@
       "name": "D.O.M.",
       "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/IhLP_7zIH7nQLCjXhm5J5A/o.jpg",
       "is_closed": false,
-      "url": "https://www.yelp.com/biz/d-o-m-s%C3%A3o-paulo-2?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "url": "https://www.yelp.com/biz/d-o-m-s%C3%A3o-paulo-2",
       "review_count": 45,
       "total_going": 5,
       "going": true,
@@ -264,7 +264,7 @@
       "name": "Underdog",
       "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aN4uY4H17q1x-kqyroDCaQ/o.jpg",
       "is_closed": false,
-      "url": "https://www.yelp.com/biz/underdog-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "url": "https://www.yelp.com/biz/underdog-s%C3%A3o-paulo",
       "review_count": 17,
       "total_going": 11,
       "going": true,
@@ -304,7 +304,7 @@
       "name": "Z Deli Sanduíches",
       "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CIbyFQEpchZXq7K6eXQbng/o.jpg",
       "is_closed": false,
-      "url": "https://www.yelp.com/biz/z-deli-sandu%C3%ADches-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "url": "https://www.yelp.com/biz/z-deli-sandu%C3%ADches-s%C3%A3o-paulo",
       "review_count": 44,
       "total_going": 2,
       "going": false,
@@ -348,7 +348,7 @@
       "name": "Veridiana",
       "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/B3mB4autM-wKQIMosZKIrA/o.jpg",
       "is_closed": false,
-      "url": "https://www.yelp.com/biz/veridiana-s%C3%A3o-paulo-2?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "url": "https://www.yelp.com/biz/veridiana-s%C3%A3o-paulo-2",
       "review_count": 32,
       "categories": [
         {
@@ -390,7 +390,7 @@
       "name": "Halim",
       "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WotabSDXUPvFsUafVtRiFA/o.jpg",
       "is_closed": false,
-      "url": "https://www.yelp.com/biz/halim-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "url": "https://www.yelp.com/biz/halim-s%C3%A3o-paulo",
       "review_count": 27,
       "categories": [
         {
@@ -428,7 +428,7 @@
       "name": "Mirante 9 de Julho",
       "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3HHBSA38OZnpwdkVJLaPFQ/o.jpg",
       "is_closed": false,
-      "url": "https://www.yelp.com/biz/mirante-9-de-julho-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "url": "https://www.yelp.com/biz/mirante-9-de-julho-s%C3%A3o-paulo",
       "review_count": 40,
       "categories": [
         {
@@ -470,7 +470,7 @@
       "name": "Liberdade",
       "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1mzxLijW6K6H5vAwWSX5Lg/o.jpg",
       "is_closed": false,
-      "url": "https://www.yelp.com/biz/liberdade-s%C3%A3o-paulo-2?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "url": "https://www.yelp.com/biz/liberdade-s%C3%A3o-paulo-2",
       "review_count": 34,
       "categories": [
         {
@@ -507,7 +507,7 @@
       "name": "King of the Fork",
       "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xgUNYhlehgUndB40g2yaOw/o.jpg",
       "is_closed": false,
-      "url": "https://www.yelp.com/biz/king-of-the-fork-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "url": "https://www.yelp.com/biz/king-of-the-fork-s%C3%A3o-paulo",
       "review_count": 48,
       "categories": [
         {
@@ -553,7 +553,7 @@
       "name": "Figueira Rubaiyat",
       "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/S2FMr3GfPVxe60JrIBELVw/o.jpg",
       "is_closed": false,
-      "url": "https://www.yelp.com/biz/figueira-rubaiyat-s%C3%A3o-paulo-2?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "url": "https://www.yelp.com/biz/figueira-rubaiyat-s%C3%A3o-paulo-2",
       "review_count": 87,
       "categories": [
         {
@@ -599,7 +599,7 @@
       "name": "Izakaya Issa",
       "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DGSiJcf1_JzA19TRNKt8yw/o.jpg",
       "is_closed": false,
-      "url": "https://www.yelp.com/biz/izakaya-issa-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "url": "https://www.yelp.com/biz/izakaya-issa-s%C3%A3o-paulo",
       "review_count": 22,
       "categories": [
         {
@@ -641,7 +641,7 @@
       "name": "Por Um Punhado de Dólares",
       "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/W6gN-zmBdHYjWqPhJkXjFg/o.jpg",
       "is_closed": false,
-      "url": "https://www.yelp.com/biz/por-um-punhado-de-d%C3%B3lares-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "url": "https://www.yelp.com/biz/por-um-punhado-de-d%C3%B3lares-s%C3%A3o-paulo",
       "review_count": 32,
       "categories": [
         {
@@ -683,7 +683,7 @@
       "name": "Z Deli Sandwich Shop",
       "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bCmz8BpA6hK3T1-GtzKFXQ/o.jpg",
       "is_closed": false,
-      "url": "https://www.yelp.com/biz/z-deli-sandwich-shop-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "url": "https://www.yelp.com/biz/z-deli-sandwich-shop-s%C3%A3o-paulo",
       "review_count": 44,
       "categories": [
         {
@@ -725,7 +725,7 @@
       "name": "Butcher's Market",
       "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/R85cSDlwgdyaqpLLH4n7Hw/o.jpg",
       "is_closed": false,
-      "url": "https://www.yelp.com/biz/butchers-market-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "url": "https://www.yelp.com/biz/butchers-market-s%C3%A3o-paulo",
       "review_count": 48,
       "categories": [
         {
@@ -767,7 +767,7 @@
       "name": "Santo Grão",
       "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/V9Zkq3TgfxYSmqRQpoDl6g/o.jpg",
       "is_closed": false,
-      "url": "https://www.yelp.com/biz/santo-gr%C3%A3o-s%C3%A3o-paulo-13?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "url": "https://www.yelp.com/biz/santo-gr%C3%A3o-s%C3%A3o-paulo-13",
       "review_count": 44,
       "categories": [
         {
@@ -809,7 +809,7 @@
       "name": "Jiquitaia Restaurante & bar",
       "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SB00QiHGkf6IYBVCOfmPUw/o.jpg",
       "is_closed": false,
-      "url": "https://www.yelp.com/biz/jiquitaia-restaurante-e-bar-s%C3%A3o-paulo?adjust_creative=jAPwvsAEMG3NE5K4lGh-tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=jAPwvsAEMG3NE5K4lGh-tw",
+      "url": "https://www.yelp.com/biz/jiquitaia-restaurante-e-bar-s%C3%A3o-paulo",
       "review_count": 20,
       "categories": [
         {

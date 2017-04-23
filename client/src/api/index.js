@@ -4,11 +4,11 @@ const checkStatus = (response) => {
   if (response.status >= 200 && response.status < 300) {
     console.log(response);
     return response;
-  } else {
-    var error = new Error(response.statusText)
-    error.response = response
-    throw error
-  }
+  } 
+
+  var error = new Error(response.statusText)
+  error.response = response
+  throw error;
 }
 const jsonHdlr = response => response.json();
 
