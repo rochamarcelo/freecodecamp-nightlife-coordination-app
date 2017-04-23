@@ -8,7 +8,7 @@ export default () => {
                     <p>
                     <a target="_blank" href="https://www.freecodecamp.com/challenges/build-a-nightlife-coordination-app">
                         freeCodeCamp project
-                    </a> using <a target="_blank" href="https://www.yelp.com/developers/documentation/v3"> yelp fusion api</a>
+                    </a> <a target="_blank" href="https://www.yelp.com/developers/documentation/v3"> using yelp fusion api</a>
                     </p>
                 </div>
                 <div className="col-sm-12">
