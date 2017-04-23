@@ -12,6 +12,9 @@ export default () => {
                     </p>
                 </div>
                 <div className="col-sm-12">
+                    <p><a target="_blank" href="https://github.com/rochamarcelo/freecodecamp-nightlife-coordination-app">see on github</a></p>
+                </div>
+                <div className="col-sm-12">
                     <a target="_blank" href="http://omarcelo.com.br">Copyright © Marcelo Rocha 2017</a>
                 </div>
             </div>
