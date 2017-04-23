@@ -7,7 +7,8 @@ const clientSecret = process.env.YELP_SECRET;
 
 module.exports = function(location, callback) {
     var searchRequest = {
-      location: location
+      location: location,
+      categories: "bars"
     };
     
     yelp.accessToken(clientId, clientSecret).then(response => {
