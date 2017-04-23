@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Card from './components/Card.js';
 import Jumbotron from './components/Jumbotron.js';
+import Footer from './components/Footer.js';
 import * as api from './api/index.js';
 import storage from './utility/storage.js';
 
@@ -84,6 +85,7 @@ class App extends Component {
         <div className="card-columns">
           {cards}
         </div>
+        <Footer />
       </div>
     );
   }
