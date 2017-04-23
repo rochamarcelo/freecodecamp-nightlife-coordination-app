@@ -9,7 +9,13 @@ export default (props) => {
         <div className="row justify-content-sm-center">
           <div className="col col-sm-8">
             <div className="input-group mb-2 mr-sm-2 mb-sm-0">
-              <input type="text" className="form-control" placeholder="WHERE YOU AT" onChange={props.onChangeLocation} value={props.location} />{" "}
+              <input 
+                type="text" 
+                className="form-control" 
+                placeholder="WHERE YOU AT" 
+                onChange={props.onChangeLocation} 
+                onKeyPress={(e) => e.charCode === 13 && props.onSearch(e)}
+                value={props.location} />{" "}
               <button type="submit" className="btn btn-primary mb-2 mr-sm-2 mb-sm-0" onClick={props.onSearch}>Go</button>
             </div>
           </div>
